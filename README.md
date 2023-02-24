@@ -15,3 +15,9 @@ A cab booking managemnebnt system made in Java has the following features:
 ## Conclusions
 
 ## Tech Stack
+
+#### FrontEnd
+- Java GUI or NextJS
+
+#### BackEnd
+- JAVA Rest API
